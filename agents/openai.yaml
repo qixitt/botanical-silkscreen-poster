@@ -1,0 +1,4 @@
+interface:
+  display_name: "花卉丝网印刷海报"
+  short_description: "根据花卉信息与参考照片，自动套用固定版式生成复古丝网印刷植物图鉴海报"
+  default_prompt: "使用 $botanical-silkscreen-poster，根据我提供的花卉信息和参考图生成海报。"
